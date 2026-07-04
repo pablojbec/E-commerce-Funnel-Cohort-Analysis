@@ -1,4 +1,4 @@
-#🧮 E-commerce Funnel & Cohort Analysis 
+# 🧮 E-commerce Funnel & Cohort Analysis 
 
 Este repositorio contiene un análisis del comportamiento de los usuarios de una plataforma de comercio electrónico mediante dos enfoques complementarios: Funnel Analysis y Cohort Analysis.
 
